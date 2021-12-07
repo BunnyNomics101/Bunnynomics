@@ -1,1 +1,1 @@
-First article on SolBunny
+First article on SolBunny: Hop-paper (whitepaper)

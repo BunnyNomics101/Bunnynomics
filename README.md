@@ -7,7 +7,7 @@ Feel free to read the articles in pdf format: [7-DEC-2021](https://github.com/Bu
 
 Sources: [Images](https://github.com/BunnyNomics101/Bunnynomics/tree/main/images) | [Theme song](https://www.youtube.com/watch?v=sLEucUCYDnI) | [Oracles](https://www.youtube.com/watch?v=5eeftov3Psk) | [Per Aspera Ad Astra](https://www.youtube.com/watch?v=tQbNV0bAK8E) |
 
-Our newest project: [SolBunny](https://solbunny.io) starts on Solana the 5. November 2021
+Our project: [SolBunny](https://solbunny.io) started on Solana the 5. November 2021
 
 Keep calm and hop on. Bunny to the moon! 
 
